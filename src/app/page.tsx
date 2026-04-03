@@ -223,15 +223,15 @@ export default function HomePage() {
             <div className="mt-6 flex flex-wrap items-center gap-5 text-sm text-ink-600">
               <p className="inline-flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-brand-700" />
-                California coverage
+                Statewide inventory, one search
               </p>
               <p className="inline-flex items-center gap-2">
                 <Gauge className="h-4 w-4 text-brand-700" />
-                Fast pre-approval flow
+                Pre-approved in minutes, no dealer visit
               </p>
               <p className="inline-flex items-center gap-2">
                 <CheckCircle2 className="h-4 w-4 text-brand-700" />
-                End-to-end concierge support
+                We handle everything — you pick the car
               </p>
             </div>
           </div>
