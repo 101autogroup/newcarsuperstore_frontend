@@ -5,6 +5,7 @@ import Providers from "@/components/providers";
 export const metadata: Metadata = {
   title: "NewCarSuperstore",
   description: "Modern marketplace for new car deals.",
+    verification: { google: "dfTayXP6rlPN93WVvLGm1aG6ryyp-uoFBlfUXkt8H2E" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
